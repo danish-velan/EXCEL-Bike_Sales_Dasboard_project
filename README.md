@@ -15,8 +15,7 @@ Highlighted higher bike purchase rates among middle-aged customers.
 Showed purchasing trends segmented by marital status and educational background.
 Provided clear comparisons of income levels among buyers and non-buyers.
 
-Technologies Used
-Excel: For data analysis, visualization, and creating interactive dashboards.
+Technologies Used Microsoft Excel: For data analysis, visualization, and creating interactive dashboards.
 
 Installation & Usage
 Download the Excel file (BikeSalesDashboard.xlsx) from this repository.
